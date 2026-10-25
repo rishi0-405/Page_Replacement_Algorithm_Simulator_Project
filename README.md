@@ -2,6 +2,11 @@
 
 An Operating Systems lab project that simulates **FIFO**, **LRU**, and **Optimal** page replacement in Python.
 
+## Student Details
+
+- **Name:** Kumar Rishi
+- **Enrollment Number:** BTE25DTA100006
+  
 ## Features
 - Accepts comma- or space-separated page references and a frame count.
 - Validates empty input, non-numeric pages, negative pages, and invalid frame counts.
@@ -34,5 +39,3 @@ An Operating Systems lab project that simulates **FIFO**, **LRU**, and **Optimal
 - `Hit ratio = page hits / total page references`
 - `Fault ratio = page faults / total page references`
 
-## Reference
-Operating Systems Lab Assignment — Page Replacement Algorithm Simulator; Silberschatz, Galvin and Gagne, *Operating System Concepts*.
